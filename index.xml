@@ -155,5 +155,15 @@ William H. Sewell Social Science Building
 Madison, WI 53706</description>
     </item>
     
+    <item>
+      <title>jmp</title>
+      <link>https://joelmcmurry.github.io/research/jmp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelmcmurry.github.io/research/jmp/</guid>
+      <description>Child Care Policy and Informal Care Draft
+Early child care experiences vary widely across the distribution of socio-economic status (SES), and sizeable skill gaps open up before children enter publicly-provided schooling. SES gradients in the quality of informal, relative-provided, care are particularly large. To understand how variation in the availability and quality of informal care contributes to skill inequality, I estimate a model of child care, mother labor supply, and child skill development, allowing for unequal access to informal care. I exploit the timing of grandmother deaths relative to a child’s birth to identify substitution patterns between informal, formal, and mother-provided child care. I quantify the effect of having access to informal care on child development and mother labor supply, and I estimate that, for a substantial fraction of less-advantaged children, the availability of informal care is detrimental to skill development. I ex ante analyze the effects of policies such as universal public daycare, subsidies for formal care, and cash transfers, and show that accounting for heterogeneity in the availability and quality of informal care is quantitatively important for estimating the effect that such policies might have on skill inequality at the point of entry into K-12 schooling.</description>
+    </item>
+    
   </channel>
 </rss>
