@@ -47,12 +47,12 @@ Week 12</description>
     </item>
     
     <item>
-      <title>Human Capital and College Prospects</title>
-      <link>https://joelmcmurry.github.io/research/hc_college_prospects/</link>
+      <title>Family Risk</title>
+      <link>https://joelmcmurry.github.io/research/family_risk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://joelmcmurry.github.io/research/hc_college_prospects/</guid>
-      <description>Human Capital and College Prospects This paper studies how parental investment in the human capital of children responds to changes in the college environment the child will face in late adolescence. I develop and estimate a dynamic model of parental savings and investment in which parents make a trade-off between saving in financial assets or the human capital of their child. Parents care about their asset position at the end of the finite decision problem as well as the quality of college their child enjoys. College quality is produced by combining tuition dollars, a choice made by the parent, and the human capital of the child in the terminal period. These inputs are complementary, so policies that increase tuition spending on the child will increase the return to investing in one&amp;rsquo;s child during childhood. I simulate three counterfactual education policies: an unconditional transfer, a conditional tuition grant, and a policy that approximates free public university.</description>
+      <guid>https://joelmcmurry.github.io/research/family_risk/</guid>
+      <description>Risk-Taking, Family Resources, and a Fuller View of the Portfolio with Annika Bacher and Eirik Brandsaas We empirically document the association between parental wealth and the risk-taking behavior of their adult children in the United States. We hypothesize that parental wealth increases risk tolerance of the child household, as wealthy, altruistic parents may provide partial insurance against losses, decreasing the downside to risk in asset, housing, and labor markets. Survey data on US households confirm this hypothesis. We first show that household risk-taking in individual assets is increasing in parental wealth. However, risk in one choice may be hedged against with other assets or expectations about future labor income. Therefore, we use the volatility of next-period wealth normalized by current wealth as our preferred measure of risk-taking, since this measure jointly accounts for multiple sources of risk. We derive the measure from a standard budget equation in a model of labor and portfolio choices with incomplete markets, with a clear mapping from theory to data.</description>
     </item>
     
     <item>
@@ -94,12 +94,12 @@ This paper examines New York City&amp;rsquo;s Summer Youth Employment Program (S
     </item>
     
     <item>
-      <title>Family Risk</title>
-      <link>https://joelmcmurry.github.io/research/family_risk/</link>
+      <title>Human Capital and College Prospects</title>
+      <link>https://joelmcmurry.github.io/research/hc_college_prospects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://joelmcmurry.github.io/research/family_risk/</guid>
-      <description>Risk-Taking, Family Resources, and a Fuller View of the Portfolio with Annika Bacher and Eirik Brandsaas We empirically document the association between parental wealth and the risk-taking behavior of their adult children in the United States. We hypothesize that parental wealth increases risk tolerance of the child household, as wealthy, altruistic parents may provide partial insurance against losses, decreasing the downside to risk in asset, housing, and labor markets. Survey data on US households confirm this hypothesis. We first show that household risk-taking in individual assets is increasing in parental wealth. However, risk in one choice may be hedged against with other assets or expectations about future labor income. Therefore, we use the volatility of next-period wealth normalized by current wealth as our preferred measure of risk-taking, since this measure jointly accounts for multiple sources of risk. We derive the measure from a standard budget equation in a model of labor and portfolio choices with incomplete markets, with a clear mapping from theory to data.</description>
+      <guid>https://joelmcmurry.github.io/research/hc_college_prospects/</guid>
+      <description>Human Capital and College Prospects This paper studies how parental investment in the human capital of children responds to changes in the college environment the child will face in late adolescence. I develop and estimate a dynamic model of parental savings and investment in which parents make a trade-off between saving in financial assets or the human capital of their child. Parents care about their asset position at the end of the finite decision problem as well as the quality of college their child enjoys. College quality is produced by combining tuition dollars, a choice made by the parent, and the human capital of the child in the terminal period. These inputs are complementary, so policies that increase tuition spending on the child will increase the return to investing in one&amp;rsquo;s child during childhood. I simulate three counterfactual education policies: an unconditional transfer, a conditional tuition grant, and a policy that approximates free public university.</description>
     </item>
     
     <item>
@@ -108,8 +108,7 @@ This paper examines New York City&amp;rsquo;s Summer Youth Employment Program (S
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://joelmcmurry.github.io/research/skills_savings_family/</guid>
-      <description>Skills, Savings, and the Family Draft (Coming Soon)
-I consider how intra-family insurance between prime-age adults and their elderly parents affects incentives to invest in the human capital of children. I document gradients in skills and measures of investment in child human capital with respect to grandparent wealth and health, even accounting for parent resources. Interpreting this as suggesting evidence that grandparent resources shift savings and investment incentives for parents, I jointly model the production of child skills and the consumption-savings of parents and grandparents in an environment with income, health, and expenditure risk and altruistic links but no commitment. I show that such a model provides sharp predictions regarding the importance of intra-family insurance relative to bequests in shifting parental incentives across the lifecycle. A calibrated version of the model is able to qualitatively reproduce the investment gradients present in the data.</description>
+      <description>Skills, Savings, and the Family I consider how intra-family insurance between prime-age adults and their elderly parents affects incentives to invest in the human capital of children. I document gradients in skills and measures of investment in child human capital with respect to grandparent wealth and health, even accounting for parent resources. Interpreting this as suggesting evidence that grandparent resources shift savings and investment incentives for parents, I jointly model the production of child skills and the consumption-savings of parents and grandparents in an environment with income, health, and expenditure risk and altruistic links but no commitment. I show that such a model provides sharp predictions regarding the importance of intra-family insurance relative to bequests in shifting parental incentives across the lifecycle. A calibrated version of the model is able to qualitatively reproduce the investment gradients present in the data.</description>
     </item>
     
     <item>
