@@ -5,11 +5,7 @@
     <link>https://joelmcmurry.github.io/research/</link>
     <description>Recent content in Research on Joel McMurry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://joelmcmurry.github.io/research/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://joelmcmurry.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>jmp</title>
       <link>https://joelmcmurry.github.io/research/jmp/</link>

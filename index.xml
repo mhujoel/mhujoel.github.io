@@ -5,11 +5,7 @@
     <link>https://joelmcmurry.github.io/</link>
     <description>Recent content on Joel McMurry</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://joelmcmurry.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://joelmcmurry.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ECON 441 - Analytical Public Finance (Fall 2016)</title>
       <link>https://joelmcmurry.github.io/teaching/econ441_f16/</link>
@@ -160,9 +156,7 @@ We consider how intra-family insurance affects household portfolio choices and s
       <description>mcmurry2@wisc.edu
 https://github.com/joelmcmurry
 https://twitter.com/joel_mcmurry
-William H. Sewell Social Science Building
-1180 Observatory Drive 7483
-Madison, WI 53706</description>
+William H. Sewell Social Science Building 1180 Observatory Drive 7483 Madison, WI 53706</description>
     </item>
     
   </channel>
